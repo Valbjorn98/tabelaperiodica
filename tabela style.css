@@ -1,0 +1,64 @@
+*{border-radius: 5px;}  
+#botao-bonito{
+    background-color: rgb(0,255,128);
+    color: rgb(0,0,255);
+}
+.classedhr{
+    background-color: rgb(128,255,255);
+}
+.legend{
+    font-family: 'arial black';
+
+}
+#fundo{
+    background-color: rgb(128,255,255);
+}
+.borda{
+    border-color: rgb(91,140,253);
+}
+#body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: black;
+}
+#excessao{
+    color: white;
+    text-align: left;
+    text-decoration-line: bold;
+}
+#excessao2{
+    color: white;
+    text-align: right;
+    text-decoration-line: bold;
+}
+#nao-metal{
+    background-color: rgb(161, 211, 68);
+
+}
+#gases-nobres{
+    background-color: #3d9ee3;
+}
+#halogenios{
+    background-color: #70cbeb;
+}
+#semi-metais{
+    background-color: #4db6ac;
+}
+#outros-metais{
+    background-color: #a2c7d3;
+}
+#metais-transicao{
+    background-color: #eb8e8e;
+}
+#metais-alcalinos{
+    background-color: #eada00;
+}
+#metais-alcalinos2{
+    background-color: #f1b200;
+}
+#lantanideos{
+    background-color: #90e3e9;
+}
+#actinidios{
+    background-color: #dcadd6;
+}
